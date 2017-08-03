@@ -1,0 +1,21 @@
+{
+  "name": "uploadpic",
+  "version": "1.0.0",
+  "description": "upload pic app",
+  "main": "app.js",
+  "scripts": {
+    "start": "start node app.js"
+  },
+  "keywords": [
+    "pics",
+    "upload"
+  ],
+  "author": "Marouane Faris",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "express-fileupload": "^0.1.4"
+  }
+}
